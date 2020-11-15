@@ -8,5 +8,3 @@ Function providing probabilities of being absorbed in some absorbing state, when
 
 More Information-
 https://en.wikipedia.org/wiki/Absorbing_Markov_chain
-
-Feel free to report bugs @ guptaabhimanyu23@gmail.com
