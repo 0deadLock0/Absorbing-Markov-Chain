@@ -1,6 +1,7 @@
 # AbsorbingMarkovChain
 
-Author- 0deadLock0
+Author- [Abhimanyu Gupta](https://github.com/0deadLock0 "GitHub Profile")
+
 Language- Python3
 
 Description-
